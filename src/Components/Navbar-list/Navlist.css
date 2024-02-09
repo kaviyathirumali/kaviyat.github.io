@@ -125,8 +125,6 @@
     height: 30px;
 }
 .intern button a{
-   
-    
     color: white;
     text-decoration: none;
 }
@@ -149,9 +147,6 @@
         margin-left: 10px;
         font-size: 30px;
     }
-    .about h1, .skill h1,.tools h1,.contact h1,.project h1,.internship-part h1{
-        margin-left: 10px;
-    }
     .full-grid{
         display: block;
     }
@@ -159,7 +154,7 @@
         letter-spacing: -.8px;
         line-height: 2.25rem;
         font-size: 1.500rem;
-        font-weight: 700;
+        font-weight: 500;
         color: rgb(31, 10, 155);
     }
     .project-1-content,.project-2-content{
@@ -175,10 +170,11 @@
     .about-education, .skill li,.tools li, .contact-list p,.contact .resume{
         margin-left: 10px;
     }
-    .about h1,.skill h1,.tools h1,.project h1,.contact h1, .internship-part h1{
-        font-size: 2rem;
+    .skill h1,.tools h1,.project h1,.contact h1, .internship-part h1{
+        font-size: 1.5rem;
         letter-spacing: -2px;
         line-height: 3.375rem;
+        margin-top: 15px;
     }
     .tools h1, .skill h1{
         width: 150px;

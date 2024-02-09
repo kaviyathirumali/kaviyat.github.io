@@ -21,6 +21,21 @@
 .navbar{
     visibility: hidden;
 }
+.navbar button {
+    visibility: visible;
+    background-color: blue;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 40px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+.navbar button a{
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+    color: white;
+}
 .nav-btn{
     display: none;
 }
@@ -58,8 +73,7 @@
         height: 50px;
         width: 200px;
         padding: 12px;
-        margin-left: 20px;
-       
+        margin-left: 20px; 
         border: 1px solid black;
         border-radius: 5px;
     }
