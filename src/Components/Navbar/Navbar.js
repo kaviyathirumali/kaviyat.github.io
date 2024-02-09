@@ -3,6 +3,7 @@ import { useState } from 'react';
 import './Navbar.css';
 import { MdMenu} from 'react-icons/md'
 import {RxCross2} from 'react-icons/rx';
+import resume from '../../Assets/CV_2024013020290365.pdf'
 
 const Navbar = () => {
   const [menu,setMenu]= useState("Home")
@@ -17,6 +18,7 @@ const Navbar = () => {
               <li onClick={()=>setMenu("Skills")}><a href='#skills'>Skills</a>{menu==="Skills"?<hr/>:<></>}</li>
               <li onClick={()=>setMenu("Project")}><a href='#project'>Project</a>{menu==="Project"?<hr/>:<></>}</li>
               <li onClick={()=>setMenu("Contact")}><a href='#contact'>Contact</a>{menu==="Contact"?<hr/>:<></>}</li>
+              <button><a href={resume} download="Resume">Download Resume</a></button>
             </ul> 
             <p className='nav-btn' onClick={()=>setIsMobile(!isMobile)} >{isMobile?<MdMenu/>:<RxCross2/>} </p> 
         </div> 

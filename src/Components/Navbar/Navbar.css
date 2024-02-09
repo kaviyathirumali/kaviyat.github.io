@@ -53,6 +53,23 @@
         font-size: 20px;
         font-weight: 700;
     }
+    .nav-link-mobile button{
+        background-color: blue;
+        height: 50px;
+        width: 200px;
+        padding: 12px;
+        margin-left: 20px;
+       
+        border: 1px solid black;
+        border-radius: 5px;
+    }
+    .nav-link-mobile button a{
+        color: white;
+        text-decoration: none;
+        font-size: 1rem;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
     .nav-link{
         display: none;
     }

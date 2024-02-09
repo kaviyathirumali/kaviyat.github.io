@@ -66,7 +66,8 @@ const Navlist = () => {
                     <li>Led the development of the project's frontend interface using React.js, Tailwind CSS, and ensured a responsive and user-friendly design.</li>
                     <li>Streamlined access to comprehensive information about Indian universities through an integrated platform, fostering informed decision-making for students and stakeholders.</li>
                     <li>Implemented dynamic data rendering, search , and interactive features, enhancing the user experience.</li>
-                    <p><span>Tool:</span>vscode</p>
+                    <p>Tool: vscode</p>
+                    <p>Role: Front-end developer</p>
                 </div>
                 <div className='project-1-image'>
                     <div className='button'>
@@ -87,7 +88,8 @@ const Navlist = () => {
                     <li>Led the development of the project's frontend interface using React.js, Tailwind CSS, and ensured a responsive and user-friendly design.</li>
                     <li>Streamlined access to comprehensive information about Indian universities through an integrated platform, fostering informed decision-making for students and stakeholders.</li>
                     <li>Implemented dynamic data rendering, search , and interactive features, enhancing the user experience.</li>
-                    <p><span>Tool:</span>vscode</p>
+                    <p>Tool: vscode</p>
+                    <p>Role: Front-end developer</p>
                 </div>
                 <div className='project-2-image'>
                     <div className='button'>
@@ -111,6 +113,7 @@ const Navlist = () => {
                     <li>Gained practical experience in web development on front-end technologies , including HTML, CSS, JS and Bootstrap.</li>
                     <li>Collabrated effctively with the development team, ensuring the seamless integration of front-end components resulting in enhanced functionality and an improved user experience.</li>
                 </div>
+                <button><a href='https://www.linkedin.com/posts/kaviya-thiru-705b52219_i-did-my-internship-ayan-technology-solutions-activity-7098885282355167233-cKNB?utm_source=share&utm_medium=member_android'>View Certificate</a></button>
             </div>
             <hr/>
     </div>
