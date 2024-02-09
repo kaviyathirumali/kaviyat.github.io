@@ -170,10 +170,7 @@
     .about-education, .skill li,.tools li, .contact-list p,.contact .resume{
         margin-left: 10px;
     }
-    .skill h1,.tools h1,.project h1,.contact h1, .internship-part h1{
-        font-size: 1.5rem;
-        letter-spacing: -2px;
-        line-height: 3.375rem;
+    .skill h1,.tools h1,.project h1,.contact h1, .internship-part{
         margin-top: 15px;
     }
     .tools h1, .skill h1{
