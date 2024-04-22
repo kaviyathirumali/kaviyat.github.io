@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/kaviyat.github.io/static/css/main.470f6f5a.css",
-    "main.js": "/kaviyat.github.io/static/js/main.cb83c039.js",
+    "main.css": "/kaviyat.github.io/static/css/main.2d5c97b4.css",
+    "main.js": "/kaviyat.github.io/static/js/main.9d8c09d3.js",
     "static/js/592.a9413543.chunk.js": "/kaviyat.github.io/static/js/592.a9413543.chunk.js",
-    "static/media/IMG_20240130_160139.jpg": "/kaviyat.github.io/static/media/IMG_20240130_160139.b1673e86896915e498da.jpg",
     "static/media/IMG_20240130_154916.jpg": "/kaviyat.github.io/static/media/IMG_20240130_154916.3bcc5730e6e12cda176e.jpg",
+    "static/media/Screenshot_16-3-2024_203937_localhost.jpeg": "/kaviyat.github.io/static/media/Screenshot_16-3-2024_203937_localhost.24f61b3eb9767616329f.jpeg",
     "index.html": "/kaviyat.github.io/index.html",
-    "main.470f6f5a.css.map": "/kaviyat.github.io/static/css/main.470f6f5a.css.map",
-    "main.cb83c039.js.map": "/kaviyat.github.io/static/js/main.cb83c039.js.map",
+    "main.2d5c97b4.css.map": "/kaviyat.github.io/static/css/main.2d5c97b4.css.map",
+    "main.9d8c09d3.js.map": "/kaviyat.github.io/static/js/main.9d8c09d3.js.map",
     "592.a9413543.chunk.js.map": "/kaviyat.github.io/static/js/592.a9413543.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.470f6f5a.css",
-    "static/js/main.cb83c039.js"
+    "static/css/main.2d5c97b4.css",
+    "static/js/main.9d8c09d3.js"
   ]
 }
