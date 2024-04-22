@@ -17,7 +17,6 @@
  .education h1, .internship h1{
     color: green;
     font-size: 20px;
-    font-weight: 200;
  }
 .timeline{
     display: flex;
