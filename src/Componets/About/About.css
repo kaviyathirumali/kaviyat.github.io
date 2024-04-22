@@ -1,0 +1,42 @@
+*{
+    line-height: 1.5;
+    font-family: 'Segoe UI';
+}
+.about-span p{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 7px;
+}
+.about-span span{
+    color: green;
+}
+.about-head{
+    margin-top: 10px;
+    background-color: black;
+    height: 90vh;
+    color: white;
+    line-height: 1.5;
+}
+.about-content{
+    margin-left: 20px;
+}
+.about-title{
+    display: flex;
+}
+.about-title hr{
+    color: green;
+}
+.about-head h2{
+    color: green;
+}
+.about-head h3{
+    color: white;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+.about-span{
+    margin-left: 20px;
+    margin-top: 15px;
+    height: 220px;
+    font-size: 18px;
+}

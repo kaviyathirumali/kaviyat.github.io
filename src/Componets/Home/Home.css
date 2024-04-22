@@ -1,0 +1,34 @@
+.home-container {    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center; 
+    color: white;
+    background-color: black;
+}
+
+.type-head{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.home-link {
+    display: flex;
+    gap: 20px;
+    font-size: 30px;
+    color: white;
+    justify-content: center;
+    align-items: center; 
+}
+
+.home-link p {
+    display: flex; 
+    align-items: center; 
+}
+
+@media (max-width:780px){
+    .type-head{
+        font-size: 20px;
+    }
+}

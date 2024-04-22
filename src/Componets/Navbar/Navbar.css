@@ -1,0 +1,93 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+.navbar li a{
+    color: white;
+    text-decoration: none;
+}
+.navbar button {
+    visibility: visible;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 40px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+.navbar button a{
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+    color: white;
+}
+.nav-link-mobile{
+    display: block;
+    color: white;
+    position: absolute;
+    top: 60px;
+    left: 20px;
+    right: 20px;
+    padding: 20px 20px;
+    height: 88vh;
+    background-color: black;
+}
+.nav-link-mobile li{
+    display: block;
+    margin-bottom: 30px;
+    margin-left: 0;
+}
+.nav-link-mobile li:first-child{
+    margin-top: 60px;
+}
+.nav-link-mobile li a{
+    font-size: 20px;
+    font-weight: 200;
+}
+.nav-link-mobile button{
+    height: 50px;
+    width: 200px;
+    padding: 12px;
+    margin-left: 20px; 
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.nav-link-mobile button a{
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.nav-btn {
+    position: absolute;
+    float: right;
+    color: black;
+    font-size: 30px;
+    display: block;
+    right: 30px;
+    top: 0;
+    background-color: white;
+}
+.nav-link-mobile hr{
+    margin-bottom: 20px;
+}
+.nav-list{
+    display: none;
+}
+.footer{
+    text-align: center;
+    top: 90vh;
+    bottom: 0;
+    width: 100%;
+    padding: 20px 0;
+    color: green;
+    position: absolute;
+}
+@media (max-width:780px){
+    .footer{
+        font-size: 20px;
+        font-weight: 200;
+    } 
+}
