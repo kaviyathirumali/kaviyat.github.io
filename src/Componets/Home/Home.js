@@ -3,7 +3,6 @@ import { Typewriter } from 'react-simple-typewriter';
 import './Home.css';
 import { FaLinkedin } from 'react-icons/fa'
 import { IoLogoGithub } from 'react-icons/io5'
-//import computer from '../../Assets/computer1.jpg'
 const Home = () => {
     return (
         <div className="home-container">

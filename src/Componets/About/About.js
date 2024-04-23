@@ -12,11 +12,11 @@ const About = () => {
                 </div>
                 <h2>Software Developer</h2>
                 <div className='about-span'>
-                    <p><span><FaRegArrowAltCircleRight /></span> <p>Birthday:</p> 2001</p>
-                    <p><span><FaRegArrowAltCircleRight /></span> <p>Phone:</p> +91 9361453087</p>
-                    <p><span><FaRegArrowAltCircleRight /></span> <p>City:</p> Trichy</p>
-                    <p><span><FaRegArrowAltCircleRight /></span> <p>Degree:</p> MCA</p>
-                    <p><span><FaRegArrowAltCircleRight /></span> <p>Email:</p> kaviyathiru007@gmail.com</p>
+                    <p><span><FaRegArrowAltCircleRight /></span> Birthday: 2001</p>
+                    <p><span><FaRegArrowAltCircleRight /></span> Phone: +91 9361453087</p>
+                    <p><span><FaRegArrowAltCircleRight /></span> City: Trichy</p>
+                    <p><span><FaRegArrowAltCircleRight /></span> Degree: MCA</p>
+                    <p><span><FaRegArrowAltCircleRight /></span> Email: kaviyathiru007@gmail.com</p>
                 </div>
                 <p>Hello! I'm kaviya, As a fresher in web development and React, focusing on mastering fundamental concepts like HTML, CSS, JavaScript, and React components will help you shine brightly in the digital world. Keep learning, practicing, and exploring new technologies to stay ahead in this dynamic field.</p>
                 </div>

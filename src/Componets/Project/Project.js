@@ -14,13 +14,13 @@ const Project = () => {
             <div className='project-text'>
                 <h3>PROJECTS</h3>
                 <div className='project-1'>
-                    <h2><span><FaRegArrowAltCircleRight /></span>INTEGRATED PLATFORM FOR INFORMATION ABOUT INDIAN UNIVERSITY</h2>
+                    <h1><span><FaRegArrowAltCircleRight /></span>INTEGRATED PLATFORM FOR INFORMATION ABOUT INDIAN UNIVERSITY</h1>
                     <img src={project_1} alt=''/>
                     <p>React.js</p>
                     <p>Role : Front-end Development</p>
                 </div>
                 <div className='project-1'>
-                    <h2><span><FaRegArrowAltCircleRight /></span>ONLINE BUS BOOKING WEBSITE</h2>
+                    <h1><span><FaRegArrowAltCircleRight /></span>ONLINE BUS BOOKING WEBSITE</h1>
                     <img src={project_2} alt=''/>
                     <p>React.js</p>
                     <p>Role : Front-end Development</p>
